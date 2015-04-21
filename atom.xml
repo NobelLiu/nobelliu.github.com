@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://nobelliu.github.io/"/>
-  <updated>2015-04-20T07:09:26.000Z</updated>
+  <updated>2015-04-21T01:18:33.000Z</updated>
   <id>http://nobelliu.github.io/</id>
   
   <author>
@@ -15,11 +15,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title><![CDATA[Shigatsu wa Kimi no Uso]]></title>
+    <title><![CDATA[《四月是你的谎言》补番完毕]]></title>
     <link href="http://nobelliu.github.io/2015/04/20/Shigatsu-wa-Kimi-no-Uso/"/>
     <id>http://nobelliu.github.io/2015/04/20/Shigatsu-wa-Kimi-no-Uso/</id>
     <published>2015-04-20T01:59:35.000Z</published>
-    <updated>2015-04-20T07:09:26.000Z</updated>
+    <updated>2015-04-21T01:18:33.000Z</updated>
     <content type="html"><![CDATA[<h3 id="我该怎么去表达我对这部动漫的喜爱呢">我该怎么去表达我对这部动漫的喜爱呢</h3><p><img src="http://ww4.sinaimg.cn/large/81e9aa8bjw1er9vwmzp97j211y0lcmy8.jpg" alt=""><br><a id="more"></a></p>
 <h4 id="大概是">大概是</h4><ul>
 <li>剧情丰满  情节跌宕起伏  女主很好看</li>
@@ -33,6 +33,10 @@
     
     </summary>
     
+      <category term="动漫" scheme="http://nobelliu.github.io/tags/%E5%8A%A8%E6%BC%AB/"/>
+    
+      <category term="杂谈" scheme="http://nobelliu.github.io/tags/%E6%9D%82%E8%B0%88/"/>
+    
   </entry>
   
   <entry>
@@ -40,13 +44,17 @@
     <link href="http://nobelliu.github.io/2015/04/10/thoughts-of-work/"/>
     <id>http://nobelliu.github.io/2015/04/10/thoughts-of-work/</id>
     <published>2015-04-10T10:02:21.000Z</published>
-    <updated>2015-04-10T10:05:50.000Z</updated>
+    <updated>2015-04-21T01:18:33.000Z</updated>
     <content type="html"><![CDATA[<p>从去年中旬从学校跑出来,出来培训,然后至今,已经工作了有一段时间了,现在呢,我先挖个坑,等会再说</p>
 ]]></content>
     <summary type="html">
     <![CDATA[<p>从去年中旬从学校跑出来,出来培训,然后至今,已经工作了有一段时间了,现在呢,我先挖个坑,等会再说</p>
 ]]>
     </summary>
+    
+      <category term="工作" scheme="http://nobelliu.github.io/tags/%E5%B7%A5%E4%BD%9C/"/>
+    
+      <category term="杂谈" scheme="http://nobelliu.github.io/tags/%E6%9D%82%E8%B0%88/"/>
     
   </entry>
   
@@ -81,8 +89,8 @@
     <title><![CDATA[Hello World]]></title>
     <link href="http://nobelliu.github.io/2015/01/27/hello-world/"/>
     <id>http://nobelliu.github.io/2015/01/27/hello-world/</id>
-    <published>2015-01-27T06:27:24.000Z</published>
-    <updated>2015-01-27T05:37:11.000Z</updated>
+    <published>2015-01-27T01:59:35.000Z</published>
+    <updated>2015-04-21T01:18:33.000Z</updated>
     <content type="html"><![CDATA[<p>额…  实际上应该是 Hello <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>!  之前呢倒是也折腾过Blog, 当时用的 Jeckll.  <strong>Github</strong> 官方推荐嘛.</p>
 <h3 id="Start_with_MarkDown">Start with MarkDown</h3><p>恩, 以前没用过 MarkDown, 现如今才发现蛮好用的.   </p>
 <p>哈哈就说这么多吧~</p>
@@ -90,6 +98,8 @@
     <summary type="html">
     <![CDATA[<p>额…  实际上应该是 Hello <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>!  之前呢倒是也折腾过Blog, 当时用的 Jeckll.  <strong>Github</strong>]]>
     </summary>
+    
+      <category term="杂谈" scheme="http://nobelliu.github.io/tags/%E6%9D%82%E8%B0%88/"/>
     
   </entry>
   
